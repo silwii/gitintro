@@ -1,0 +1,4 @@
+Aim: link this file in github
+Add this file using "git add (File_name)" then U will change to A. It is in waiting stage
+moving this file to github using "git commit -m "commit message" ". It will add this file in local
+To list this file in github using "git push origin main" .It will list in github.
